@@ -1,0 +1,9 @@
+﻿Product,Region,Date,Sales
+Product A,North,2024-01-01,120
+Product B,South,2024-01-02,150
+Product A,East,2024-01-03,200
+Product C,West,2024-02-04,90
+Product B,North,2024-03-05,220
+Product A,South,2024-04-06,130
+Product C,North,2024-01-07,300
+Product B,East,2024-01-08,80
